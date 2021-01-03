@@ -5,6 +5,7 @@
 *://*.361t.org/*
 *://*.3cwu.com/*
 *://*.51xuexiaoyi.com/*
+*://*.329329.com/*
 *://*.aalahty.cn/*
 *://*.ajhujiao.com/*
 *://*.androidcookie.com/*
